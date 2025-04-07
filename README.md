@@ -11,8 +11,8 @@
 
 # Getting Started
 ## Prerequisites
-- Python 3.x users need to check for the installation of a suitable Python version.
-- The recommended version for Pandas is 1.x.
+- Python 3.12.2 users need to check for the installation of a suitable Python version.
+- The recommended version for Pandas is 2.2.1
 - Jupyter Notebook (Optional): For an interactive coding environment.
 
 ## Installing
@@ -42,18 +42,18 @@ The necessary CSV files (wards.csv, Census.csv, movies.csv, financials.csv, tagl
 # Deployment
 The project functions for educational purposes only. To run the code:
 1. Open the Project:
-Begin by opening the provided Jupyter Notebook or Python script within your preferred IDE.
+   Begin by opening the provided Jupyter Notebook or Python script within your preferred IDE.
 2. Verify File Locations:
-Check the CSV files are located in the correct directory or modify the file path in the code direction.
+   Check the CSV files are located in the correct directory or modify the file path in the code direction.
 3. Run the Code:
-Multiple merge operations with data validation results will become visible after you execute the cells or run the script sequentially.
+   Multiple merge operations with data validation results will become visible after you execute the cells or run the script sequentially.
 
 # Author
 Shriram Yadav
 - Data Analytics Tools – Durham College
 
 # License
-The project operates under the MIT License.
+- The project operates under the MIT License.
 
 # Acknowledgement
 - The authors offer their gratitude to Durham College along with the course instructors who made this lab assignment possible.

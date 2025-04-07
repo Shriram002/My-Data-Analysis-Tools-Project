@@ -19,15 +19,15 @@ The necessary CSV files (wards.csv, Census.csv, movies.csv, financials.csv, tagl
 # Running the Tests
 
 ## Breakdown of Tests
-1. ### Data Loading and Validation:
+### 1. Data Loading and Validation:
   The code utilizes pd.read_csv() functions to import several CSV files and verifies correct data loading through .head() previews.
 
-2. ### Merge Operations:
+### 2. Merge Operations:
 - The test group performs a one-to-one merge operation between wards.csv and Census.csv through the ward column with matching suffixes and also without suffixes.
 - The merge operation between wards.csv and licenses.csv occurs using the ward column for a one-to-many relationship.
 - The examples show how to perform chained merge operations between multiple datasets ranging from three to four tables.
 
-3. ### Practical Application Tests:
+### 3. Practical Application Tests:
 - A left join between movies.csv and financials.csv represents the identification of empty data entries in the budget column using the .isnull().sum() process.
 - Taglines data enrichment demonstrates the differences between left join and inner join effects against movies.csv and taglines.csv data tables.
 - The database application combines Science Fiction filtered movie genres from movie_to_genres.csv with movies.csv to yield complete movie information.

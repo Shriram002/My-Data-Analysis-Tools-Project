@@ -1,6 +1,6 @@
 # Understand Data Merging through Pandas: This Article Analyzes Lab 6 for Comprehensive Understanding
 
-Short Description
+## Short Description
 A lab assignment within this repository shows Pandas data merging abilities to students who are part of the Data Analytics Tools course. Students learn basic merge types including one-to-one, one-to-many and multi-table procedures besides practical implementations such as financial data identification, movie data tagline enrichment and genre-specific movie filtering and actor list cross-comparison through outer joins.
 
 # Getting Started
@@ -10,16 +10,10 @@ A lab assignment within this repository shows Pandas data merging abilities to s
 - Jupyter Notebook (Optional): For an interactive coding environment.
 
 ## Installing
-1. Clone the Repository:
-
-
-2. Install the Required Libraries:
-
+1. Install the Required Libraries:
 Open the repository directory then install Pandas through the command line.
-
-
+![image](https://github.com/user-attachments/assets/bf75c2e2-c838-45b7-9ae9-e1185fef032f)
 3. Ensure Data Files Are Available:
-
 The necessary CSV files (wards.csv, Census.csv, movies.csv, financials.csv, taglines.csv, movie_to_genres.csv, iron_1_actors.csv, iron_2_actors.csv) must be placed either in the same directory as the code or their paths should be adjusted.
 
 # Running the Tests
@@ -49,13 +43,10 @@ The code utilizes pd.read_csv() functions to import several CSV files and verifi
 
 # Deployment
 The project functions for educational purposes only. To run the code:
-
 1. Open the Project:
 Begin by opening the provided Jupyter Notebook or Python script within your preferred IDE.
-
 2. Verify File Locations:
 Check the CSV files are located in the correct directory or modify the file path in the code direction.
-
 3. Run the Code:
 Multiple merge operations with data validation results will become visible after you execute the cells or run the script sequentially.
 

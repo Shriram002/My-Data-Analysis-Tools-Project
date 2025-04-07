@@ -1,6 +1,6 @@
-<div style="text-align: justify">
+<p align="center">
   # Understand Data Merging through Pandas: This Article Analyzes Lab 6 for Comprehensive Understanding
-</div>
+</p>
 
 ## Short Description
 <div style="text-align: justify">

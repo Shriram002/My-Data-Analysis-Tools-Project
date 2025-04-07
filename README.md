@@ -40,7 +40,7 @@ The necessary CSV files (wards.csv, Census.csv, movies.csv, financials.csv, tagl
 - The combination of an outer join between iron_1_actors.csv and iron_2_actors.csv enables the creation of an index which identifies actors appearing in just one film.
 
 # Deployment
-The project functions for educational purposes only. To run the code:
+To run the code:
 1. Open the Project:
    Begin by opening the provided Jupyter Notebook or Python script within your preferred IDE.
 2. Verify File Locations:
@@ -49,11 +49,11 @@ The project functions for educational purposes only. To run the code:
    Multiple merge operations with data validation results will become visible after you execute the cells or run the script sequentially.
 
 # Author
-Shriram Yadav
+## Shriram Yadav
 - Data Analytics Tools – Durham College
 
 # License
-- The project operates under the MIT License.
+- The project operates under the Durham College.
 
 # Acknowledgement
 - The authors offer their gratitude to Durham College along with the course instructors who made this lab assignment possible.

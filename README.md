@@ -1,5 +1,5 @@
 <h1 align="center">
-  Understand Data Merging through Pandas: This Article Analyzes Lab 6 for Comprehensive Understanding
+  Understand Data Merging through Pandas: This Analyzes Lab 6 for Comprehensive Understanding
 </h1>
 
 ## Short Description

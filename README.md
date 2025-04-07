@@ -3,13 +3,13 @@
 Short Description
 A lab assignment within this repository shows Pandas data merging abilities to students who are part of the Data Analytics Tools course. Students learn basic merge types including one-to-one, one-to-many and multi-table procedures besides practical implementations such as financial data identification, movie data tagline enrichment and genre-specific movie filtering and actor list cross-comparison through outer joins.
 
-Getting Started
-Prerequisites
+# Getting Started
+## Prerequisites
 - Python 3.x users need to check for the installation of a suitable Python version.
 - The recommended version for Pandas is 1.x.
 - Jupyter Notebook (Optional): For an interactive coding environment.
 
-Installing
+## Installing
 1. Clone the Repository:
 
 
@@ -22,11 +22,13 @@ Open the repository directory then install Pandas through the command line.
 
 The necessary CSV files (wards.csv, Census.csv, movies.csv, financials.csv, taglines.csv, movie_to_genres.csv, iron_1_actors.csv, iron_2_actors.csv) must be placed either in the same directory as the code or their paths should be adjusted.
 
-Running the Tests
+# Running the Tests
 
-Breakdown of Tests
+## Breakdown of Tests
 - Data Loading and Validation:
+  
 The code utilizes pd.read_csv() functions to import several CSV files and verifies correct data loading through .head() previews.
+
 - Merge Operations:
 
 . The test group performs a one-to-one merge operation between wards.csv and Census.csv through the ward column with matching suffixes and also without suffixes.

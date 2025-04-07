@@ -44,7 +44,7 @@ Multiple merge operations with data validation results will become visible after
 
 # Author
 Shriram Yadav
-Data Analytics Tools – Durham College
+- Data Analytics Tools – Durham College
 
 # License
 The project operates under the MIT License.

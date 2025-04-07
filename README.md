@@ -1,6 +1,6 @@
-<p align="center">
-  # Understand Data Merging through Pandas: This Article Analyzes Lab 6 for Comprehensive Understanding
-</p>
+<h1 align="center">
+  Understand Data Merging through Pandas: This Article Analyzes Lab 6 for Comprehensive Understanding
+</h1>
 
 ## Short Description
 <div style="text-align: justify">

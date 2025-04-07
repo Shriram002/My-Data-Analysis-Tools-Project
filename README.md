@@ -19,9 +19,8 @@ The necessary CSV files (wards.csv, Census.csv, movies.csv, financials.csv, tagl
 # Running the Tests
 
 ## Breakdown of Tests
-- # Data Loading and Validation:
-  
-The code utilizes pd.read_csv() functions to import several CSV files and verifies correct data loading through .head() previews.
+- ### Data Loading and Validation:
+  The code utilizes pd.read_csv() functions to import several CSV files and verifies correct data loading through .head() previews.
 
 - Merge Operations:
 

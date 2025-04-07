@@ -1,7 +1,13 @@
-# Understand Data Merging through Pandas: This Article Analyzes Lab 6 for Comprehensive Understanding
+<div style="text-align: justify">
+  # Understand Data Merging through Pandas: This Article Analyzes Lab 6 for Comprehensive Understanding
+</div>
 
 ## Short Description
-A lab assignment within this repository shows Pandas data merging abilities to students who are part of the Data Analytics Tools course. Students learn basic merge types including one-to-one, one-to-many and multi-table procedures besides practical implementations such as financial data identification, movie data tagline enrichment and genre-specific movie filtering and actor list cross-comparison through outer joins.
+<div style="text-align: justify">
+  A lab assignment within this repository shows Pandas data merging abilities to students who are part of the Data Analytics Tools course. Students learn basic merge types including one-to-one, one-to-many and
+  multi-table procedures besides practical implementations such as financial data identification, movie data tagline enrichment and genre-specific movie filtering and actor list cross-comparison through outer
+  joins.
+</div>
 
 # Getting Started
 ## Prerequisites
